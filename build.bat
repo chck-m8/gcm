@@ -21,9 +21,9 @@ Echo Start Time - %Time%
 MSbuild %SolutionPath% /t:Rebuild /p:Configuration=Release 
 Echo End Time - %Time%
 
-cd %WORKING_DIRECTORY%\FoodieApp\
+
 SET PATH=C:\Program Files\Microsoft Visual Studio 11.0\Common7\IDE\
-mstest /testcontainer:FoodieTest\bin\release\FoodieTest.dll"
+mstest /testcontainer:"%WORKING_DIRECTORY%\FoodieTest\bin\release\FoodieTest.dll"
 echo Build Process Completed...
 Set /p Wait=Press any key to start Foodie
 
