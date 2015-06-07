@@ -1,0 +1,5 @@
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\bin\Release\Foodie.Data.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\bin\Release\Foodie.Data.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\obj\Release\Foodie.Data.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\obj\Release\Foodie.Data.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\obj\Release\Foodie.Data.pdb

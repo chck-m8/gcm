@@ -1,0 +1,8 @@
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\FoodieApp.exe.config
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\FoodieApp.exe
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\FoodieApp.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\obj\Debug\FoodieApp.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\obj\Debug\FoodieApp.exe
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\obj\Debug\FoodieApp.pdb

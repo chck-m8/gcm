@@ -1,0 +1,4 @@
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\bin\Debug\Foodie.Data.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\bin\Debug\Foodie.Data.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\obj\Debug\Foodie.Data.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\Foodie.Data\obj\Debug\Foodie.Data.pdb

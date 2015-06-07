@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8d1ce60a-2a55-4168-861d-90e4e1bd6cd4" name="Evan@EVAN 2015-06-07 12:51:13" runUser="EVAN\Evan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="94cc0f1d-cdf0-4a35-80d4-3bbc17180c14">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Evan_EVAN 2015-06-07 12_51_13" />
+  </TestSettings>
+  <Times creation="2015-06-07T12:51:13.3717525-05:00" queuing="2015-06-07T12:51:14.1372145-05:00" start="2015-06-07T12:51:14.4028595-05:00" finish="2015-06-07T12:51:15.2608428-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="IncorrectType" storage="foodietest\bin\release\foodietest.dll" id="99dc4097-16db-a526-9206-dc371500371c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output()" />
+      </TestCategory>
+      <Execution id="5f2dc60d-7578-4bd5-bc70-62cacfaef5c3" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IncorrectType" />
+    </UnitTest>
+    <UnitTest name="DontAllowEmptyInputs" storage="foodietest\bin\release\foodietest.dll" id="683b50d9-4360-d413-97ae-79ed9f92d701">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output()" />
+      </TestCategory>
+      <Execution id="c3f399d5-fbe8-40ca-8ba9-74ae77bd665e" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DontAllowEmptyInputs" />
+    </UnitTest>
+    <UnitTest name="IncorrectTypeOrder" storage="foodietest\bin\release\foodietest.dll" id="4fb52530-8cba-0482-8130-24c143437b37">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output()" />
+      </TestCategory>
+      <Execution id="5a5fc44d-9741-47da-a904-93ef39361960" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IncorrectTypeOrder" />
+    </UnitTest>
+    <UnitTest name="CorrectInput" storage="foodietest\bin\release\foodietest.dll" id="ded6f284-4480-5b0d-834e-a4c504187dcd">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output" />
+      </TestCategory>
+      <Execution id="ba647ae8-2594-4e3f-b1d2-bb6f726ed945" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CorrectInput" />
+    </UnitTest>
+    <UnitTest name="WithAllowMultiples" storage="foodietest\bin\release\foodietest.dll" id="95d9e8cf-1bec-632c-42b8-6f01c17c572d">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output()" />
+      </TestCategory>
+      <Execution id="eb887d13-22ba-4d5d-86b9-62afd5916f54" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WithAllowMultiples" />
+    </UnitTest>
+    <UnitTest name="DishType_Error" storage="foodietest\bin\release\foodietest.dll" id="fa328eab-a785-69ed-c583-0f459320e557">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Type_DishType" />
+      </TestCategory>
+      <Execution id="4c832775-7970-428f-a8d8-c5011553e374" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DishType_Error" />
+    </UnitTest>
+    <UnitTest name="TimeOFDay_Error" storage="foodietest\bin\release\foodietest.dll" id="15ac8d36-a20a-6ded-46b9-3b6e706a57b5">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Type_TimeOfDay" />
+      </TestCategory>
+      <Execution id="8b2fbb54-d69e-43ff-8fd1-cef28c866c5d" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TimeOFDay_Error" />
+    </UnitTest>
+    <UnitTest name="DontAllowMultiples" storage="foodietest\bin\release\foodietest.dll" id="d9152c5e-81be-9ff5-7786-edbac1150fbc">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output()" />
+      </TestCategory>
+      <Execution id="86c7c645-3e16-4b63-8d53-3591d9c491d2" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DontAllowMultiples" />
+    </UnitTest>
+    <UnitTest name="NoParameters" storage="foodietest\bin\release\foodietest.dll" id="64d07ee9-c2e5-32ac-944c-1c61c6de7e01">
+      <TestCategory>
+        <TestCategoryItem TestCategory="MealTaker_Output()" />
+      </TestCategory>
+      <Execution id="77713ecb-9fea-4c87-8cee-e6e207952175" />
+      <TestMethod codeBase="C:/Users/Evan/Documents/Visual Studio 2013/Projects/FoodieApp/FoodieTest/bin/release/FoodieTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FoodieTest.FoodieTest, FoodieTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NoParameters" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ded6f284-4480-5b0d-834e-a4c504187dcd" executionId="ba647ae8-2594-4e3f-b1d2-bb6f726ed945" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa328eab-a785-69ed-c583-0f459320e557" executionId="4c832775-7970-428f-a8d8-c5011553e374" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="683b50d9-4360-d413-97ae-79ed9f92d701" executionId="c3f399d5-fbe8-40ca-8ba9-74ae77bd665e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9152c5e-81be-9ff5-7786-edbac1150fbc" executionId="86c7c645-3e16-4b63-8d53-3591d9c491d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99dc4097-16db-a526-9206-dc371500371c" executionId="5f2dc60d-7578-4bd5-bc70-62cacfaef5c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4fb52530-8cba-0482-8130-24c143437b37" executionId="5a5fc44d-9741-47da-a904-93ef39361960" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64d07ee9-c2e5-32ac-944c-1c61c6de7e01" executionId="77713ecb-9fea-4c87-8cee-e6e207952175" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="15ac8d36-a20a-6ded-46b9-3b6e706a57b5" executionId="8b2fbb54-d69e-43ff-8fd1-cef28c866c5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95d9e8cf-1bec-632c-42b8-6f01c17c572d" executionId="eb887d13-22ba-4d5d-86b9-62afd5916f54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ba647ae8-2594-4e3f-b1d2-bb6f726ed945" testId="ded6f284-4480-5b0d-834e-a4c504187dcd" testName="CorrectInput" computerName="EVAN" duration="00:00:00.0630519" startTime="2015-06-07T12:51:14.4491037-05:00" endTime="2015-06-07T12:51:14.9634248-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba647ae8-2594-4e3f-b1d2-bb6f726ed945">
+    </UnitTestResult>
+    <UnitTestResult executionId="4c832775-7970-428f-a8d8-c5011553e374" testId="fa328eab-a785-69ed-c583-0f459320e557" testName="DishType_Error" computerName="EVAN" duration="00:00:00.0015189" startTime="2015-06-07T12:51:15.0259831-05:00" endTime="2015-06-07T12:51:15.0259831-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c832775-7970-428f-a8d8-c5011553e374">
+    </UnitTestResult>
+    <UnitTestResult executionId="c3f399d5-fbe8-40ca-8ba9-74ae77bd665e" testId="683b50d9-4360-d413-97ae-79ed9f92d701" testName="DontAllowEmptyInputs" computerName="EVAN" duration="00:00:00.0077694" startTime="2015-06-07T12:51:15.0427666-05:00" endTime="2015-06-07T12:51:15.0571958-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3f399d5-fbe8-40ca-8ba9-74ae77bd665e">
+    </UnitTestResult>
+    <UnitTestResult executionId="86c7c645-3e16-4b63-8d53-3591d9c491d2" testId="d9152c5e-81be-9ff5-7786-edbac1150fbc" testName="DontAllowMultiples" computerName="EVAN" duration="00:00:00.0058185" startTime="2015-06-07T12:51:15.0571958-05:00" endTime="2015-06-07T12:51:15.0737059-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86c7c645-3e16-4b63-8d53-3591d9c491d2">
+    </UnitTestResult>
+    <UnitTestResult executionId="5f2dc60d-7578-4bd5-bc70-62cacfaef5c3" testId="99dc4097-16db-a526-9206-dc371500371c" testName="IncorrectType" computerName="EVAN" duration="00:00:00.0013702" startTime="2015-06-07T12:51:15.0904910-05:00" endTime="2015-06-07T12:51:15.0904910-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f2dc60d-7578-4bd5-bc70-62cacfaef5c3">
+    </UnitTestResult>
+    <UnitTestResult executionId="5a5fc44d-9741-47da-a904-93ef39361960" testId="4fb52530-8cba-0482-8130-24c143437b37" testName="IncorrectTypeOrder" computerName="EVAN" duration="00:00:00.0036056" startTime="2015-06-07T12:51:15.1041277-05:00" endTime="2015-06-07T12:51:15.1041277-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a5fc44d-9741-47da-a904-93ef39361960">
+    </UnitTestResult>
+    <UnitTestResult executionId="77713ecb-9fea-4c87-8cee-e6e207952175" testId="64d07ee9-c2e5-32ac-944c-1c61c6de7e01" testName="NoParameters" computerName="EVAN" duration="00:00:00.0003269" startTime="2015-06-07T12:51:15.1217532-05:00" endTime="2015-06-07T12:51:15.1217532-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="77713ecb-9fea-4c87-8cee-e6e207952175">
+    </UnitTestResult>
+    <UnitTestResult executionId="8b2fbb54-d69e-43ff-8fd1-cef28c866c5d" testId="15ac8d36-a20a-6ded-46b9-3b6e706a57b5" testName="TimeOFDay_Error" computerName="EVAN" duration="00:00:00.0046639" startTime="2015-06-07T12:51:15.1372414-05:00" endTime="2015-06-07T12:51:15.1372414-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b2fbb54-d69e-43ff-8fd1-cef28c866c5d">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb887d13-22ba-4d5d-86b9-62afd5916f54" testId="95d9e8cf-1bec-632c-42b8-6f01c17c572d" testName="WithAllowMultiples" computerName="EVAN" duration="00:00:00.0056966" startTime="2015-06-07T12:51:15.1526509-05:00" endTime="2015-06-07T12:51:15.1678368-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb887d13-22ba-4d5d-86b9-62afd5916f54">
+    </UnitTestResult>
+  </Results>
+</TestRun>

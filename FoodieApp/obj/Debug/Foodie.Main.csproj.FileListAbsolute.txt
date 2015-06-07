@@ -1,0 +1,10 @@
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\obj\Debug\Foodie.Main.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Autofac.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.Data.dll
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.Data.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Autofac.xml
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.Main.exe.config
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.Main.exe
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\bin\Debug\Foodie.Main.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\obj\Debug\Foodie.Main.exe
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\FoodieApp\FoodieApp\obj\Debug\Foodie.Main.pdb

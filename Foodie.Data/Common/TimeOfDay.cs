@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Foodie.Data.Common
+{
+    /// <summary>
+    /// Time of day for a Foodie Meal
+    /// </summary>
+    public enum TimeOfDay
+    {
+        Morning,
+        Night
+    }
+}
